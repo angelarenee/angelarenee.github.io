@@ -1,1 +1,3 @@
-h1 #hex {color: #E8BF80;}
+h1, p {
+	color: #E8BF80;
+}
