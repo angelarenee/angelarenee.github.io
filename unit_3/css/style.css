@@ -1,0 +1,19 @@
+body {background: #E85E01;
+	color: #000000;
+}
+h1 {color: black;
+	font-weight: bold;
+	font-size: 30px;
+	font-family:'Fjalla One', sans-serif; 
+}
+p {font-size: 20px;
+	font-family:'Rokkitt', serif;
+	text-align: center;
+	margin: 5px 35px 10px 35px;
+}
+img
+#slogan{color:black;
+		font-size: 25px;
+		font-family:'Fjalla One', sans-serif;
+		font-style: italic;
+	}
