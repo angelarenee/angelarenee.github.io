@@ -2,25 +2,26 @@ body {background: #D2DBBF;
 	color: #000000;
 }
 header {background-color:#D2DBBF;
-		color:black;
+		color:#193441;
 		font-size:20px;
 		font-family:'Cantarell', sans-serif;;
 }
 
 nav {background-color:#FCFFF5;
-	color:black;
+	color:#193441;
 	font-size:18px;
 	font-family:'Poppins', sans-serif;
 	text-decoration: none;
 	text-align: center;
 }
 
-section {text-align: center;
+section {color:#193441;
+		text-align: center;
 		margin-right: 150px;
 		margin-left: 150px;
 }
 
-a {color:black;
+a {color:#193441;
 	text-decoration: none;
 	}
 
@@ -28,7 +29,8 @@ img {text-align: center;
 }
 
 
-p {font-size: 14px;
+p {color:#193441;
+	font-size: 14px;
 	font-family:'Noto Sans HK', sans-serif;
 	text-align: center;
 	margin-right: 40px;
