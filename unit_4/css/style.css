@@ -1,15 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+HK&display=swap');
+
 body {background: #D2DBBF;
 	color: #000000;
+	font-style: 12px; 
 }
 header {background-color:#D2DBBF;
 		color:#193441;
-		font-size:20px;
+		font-size:2em;
 		font-family:'Cantarell', sans-serif;;
 }
 
 nav {background-color:#FCFFF5;
 	color:#193441;
-	font-size:18px;
+	font-size:1em;
 	font-family:'Poppins', sans-serif;
 	text-decoration: none;
 	text-align: center;
