@@ -24,6 +24,9 @@ section {color:#193441;
 		margin-left: 150px;
 }
 
+section .header{
+	font-family: 'Poppins';
+}
 a {color:#193441;
 	text-decoration: none;
 	}
