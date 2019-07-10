@@ -4,13 +4,13 @@ body {background: #D2DBBF;
 	color: #000000;
 	font-style: 12px; 
 }
-header {background-color:#0089A6;
+header {background-color:#FFED74;
 		color:#193441;
 		font-size:2em;
 		font-family:'Cantarell', sans-serif;;
 }
 
-nav {background-color:#FCFFF5;
+nav {background-color:#E8C66A;
 	color:#193441;
 	font-size:1em;
 	font-family:'Poppins', sans-serif;
@@ -18,44 +18,41 @@ nav {background-color:#FCFFF5;
 	text-align: center;
 }
 
-h2 {
-	background-color:#A6540D;
-	color:black;
-	font-size: 2em;
-	font-family:'Poppins', sans-serif;
-	}
-
-div #woodworks {
-	background-color:white;
+aside {background-color:#FFC675
 }
 
-section #contact{
-	background:white; 
-	font-size: 2em;
-	font-family:'Poppins';
+article {background-color:#E89C6C
 }
 
-section #about{
-	background-color:#A6540D;
-	color:#A6540D;
+section .woodworks {
+	background-color:#FFE2B8;
 }
 
-a {color:#193441;
-	text-decoration: none;
-	}
-
-img {
-	height: 200px;
-  	width: 50%;
-	text-align: center;
-	padding: 20px;
+section .customwork { 
+	background-color:#FFE2B7
 }
 
+section .about { 
+	background-color:#FFE2B6
+}
+
+section .contact { 
+	background-color:#FFE2B5
+}
+
+section .events { 
+	background-color:#FFE2B4
+}
 
 p {color:#193441;
-	font-size: 1em;
+	font-size: 14px;
 	font-family:'Noto Sans HK', sans-serif;
 	text-align: center;
 	margin-right: 40px;
 	margin-left: 40px;
 }
+
+h1 {color:black;
+	font-size: 20px;
+	font-family:'Poppins', sans-serif;
+	}
